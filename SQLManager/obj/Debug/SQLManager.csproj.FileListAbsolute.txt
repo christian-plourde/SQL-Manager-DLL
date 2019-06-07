@@ -1,0 +1,6 @@
+D:\My DLLs\SQLManager\SQLManager\bin\Debug\SQLManager.dll
+D:\My DLLs\SQLManager\SQLManager\bin\Debug\SQLManager.pdb
+D:\My DLLs\SQLManager\SQLManager\obj\Debug\SQLManager.csprojResolveAssemblyReference.cache
+D:\My DLLs\SQLManager\SQLManager\obj\Debug\SQLManager.csproj.CoreCompileInputs.cache
+D:\My DLLs\SQLManager\SQLManager\obj\Debug\SQLManager.dll
+D:\My DLLs\SQLManager\SQLManager\obj\Debug\SQLManager.pdb
