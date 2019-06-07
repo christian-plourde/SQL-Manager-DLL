@@ -59,7 +59,13 @@ namespace SQLManager
                         //if we fail to append the value it is because it is null
 
                         if (!lecteurSQL.IsDBNull(i))
-                            new_row.append(lecteurSQL.GetValue(i).ToString());
+                        {
+                            string res = lecteurSQL.GetValue(i).ToString();
+                            res = res.Replace("<", "");
+                            res = res.Replace(">", "");
+                            new_row.append(res);
+                        }
+                            
                         else
                             new_row.append("");
                     }
